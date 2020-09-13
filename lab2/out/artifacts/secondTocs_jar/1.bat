@@ -1,0 +1,1 @@
+java -jar C:\Users\ASUS\IdeaProjects\secondTocs\out\artifacts\secondTocs_jar\secondTocs.jar

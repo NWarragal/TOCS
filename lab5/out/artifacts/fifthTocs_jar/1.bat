@@ -1,0 +1,1 @@
+java -jar C:\Users\ASUS\IdeaProjects\fifthTocs\out\artifacts\fifthTocs_jar\fifthTocs.jar

@@ -1,0 +1,1 @@
+java -jar C:\Users\ASUS\IdeaProjects\thirdTocs\out\artifacts\thirdTocs_jar\thirdTocs.jar

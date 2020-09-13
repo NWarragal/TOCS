@@ -1,0 +1,10 @@
+if (messageOutput.equals("RTS")){
+                box.rts.setSelected(true);
+                if(box.rts.isSelected()) box.dtr.setSelected(false);
+                continue;
+            }
+            if (messageOutput.equals("DTR")){
+                box.dtr.setSelected(true);
+                if(box.dtr.isSelected()) box.rts.setSelected(false);
+                continue;
+            }
